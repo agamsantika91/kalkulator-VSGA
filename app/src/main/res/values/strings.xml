@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="activity_vertical">16dp</string>
+    <string name="activity_horizontal">16dp</string>
+</resources>
